@@ -17,5 +17,16 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore other files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Stores
+.secret
+
+
+
 # Ignore Byebug command history file.
 .byebug_history

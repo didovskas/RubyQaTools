@@ -52,6 +52,7 @@ group :development do
   gem 'web-console', '>= 3.3.0'
   # use rspec for tdd
   gem 'rspec-rails', '2.13.1'
+  gem 'test-unit'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
